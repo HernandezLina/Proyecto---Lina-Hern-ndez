@@ -2,6 +2,7 @@
 
 Relación entre los Kioscos Vive Digital y el puntaje global de las pruebas ICFES Saber 11º
 
+Base ICFES 2019-2: https://drive.google.com/file/d/1sizy0_rLiNUzCHYS552_10oeteTKBJFx/view?usp=sharing
 link a Tableau https://prod-useast-b.online.tableau.com/#/site/linah/workbooks/293307?:origin=card_share_link 
 
 En el 2010, la falta de accesibilidad al internet en los territorios rurales de Colombia ampliaba la brecha de desigualdad entre lo urbano y rural y el crecimiento económico, la empleabilidad y posiblemente el desempeño académico en estos territorios. Por esta razón, la inversión en infraestructura para la conectividad ha sido un tema prioritario en Colombia con el fin de revertir la baja penetración en el uso de las tecnologías de la información y la comunicación (TIC) fuera del ámbito empresarial. Adicionalmente, esta brecha se asocia con la falta de una alfabetización tecnológica necesaria para la vida académica y la empleabilidad de quienes no tienen acceso a las TIC.
